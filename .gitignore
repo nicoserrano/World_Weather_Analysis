@@ -2,6 +2,7 @@
 config.py
 
 # We could also add additional files we don't want to include
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
