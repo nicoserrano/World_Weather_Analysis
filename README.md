@@ -22,7 +22,8 @@ The goal of this project was to retrieve weather data using OpenWeather API to t
 The code retrieved weather data for more than 600 hundred cities around the World. A map was created will all these cities displaying their location, country, current weather description, and max temperature. After that, the customer was able to input their temperature preferences which would then filter the dataframe to a couple houndred cities. With this filtered dataframe of cities I found the nearest hotel using Google Maps API to serve as a travel recommendation to our customers.
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/83378141/123011878-3d782480-d38f-11eb-99e2-d16d5fd3cfe1.png)
-![WeatherPy_travel_map](https://user-images.githubusercontent.com/83378141/123011889-41a44200-d38f-11eb-8efb-513d32dbdbb8.png)
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/83378141/123013109-9052db80-d391-11eb-9e0d-ea551b9048ad.png)
+
 
 Finally, our customers were also given a suggested trip with an itinerary and driving directions to all four cities. 
 
