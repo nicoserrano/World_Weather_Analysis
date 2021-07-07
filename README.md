@@ -10,7 +10,7 @@ The goal of this project was to retrieve weather data using OpenWeather API to t
   - WeatherPy_Database.csv
   - WeatherPy_vacation.csv
 - Software:
-  - Python 6.3.1
+  - Python 3.6.1
   - Jupyter Notebook
   - Pandas, citipy, scipy, requests, gmaps, and numpy libraries and dependencies
   - OpenWeather and Google Maps APIs
